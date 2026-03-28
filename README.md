@@ -2,7 +2,7 @@
 
 Accessible Google Colab notebook for quantizing Hugging Face models to GGUF format for llama.cpp and whisper.cpp, based on the work of [llama.cpp](https://github.com/ggerganov/llama.cpp) and [whisper.cpp](https://github.com/ggml-org/whisper.cpp).
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Bercraft/gguf-quantizer-colab/blob/main/gguf-quantizer-colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Bercraft/quantization-colab/blob/main/quantization-colab.ipynb)
 
 ---
 
